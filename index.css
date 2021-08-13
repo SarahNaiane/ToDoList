@@ -44,6 +44,10 @@ form {
     cursor: pointer;
 }
 
+#add:hover {
+    background: rgb(238, 144, 144);
+}
+
 #list {
     list-style-type: none;
     margin-top: 20px;

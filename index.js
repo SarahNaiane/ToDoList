@@ -1,7 +1,6 @@
 let add = document.querySelector("#add");
 let list = document.querySelector("#list");
 add.onClick = (e) => {
-    console.log("oiess")
     e.prevertDefault();
     let listItem = document.querySelector("#listItem");
 
